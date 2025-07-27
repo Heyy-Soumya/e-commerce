@@ -1,4 +1,4 @@
- E-commerce Store with advanced features. Include customizable products view (List/Grid), product listings, search functionality, cart management, checkout process, and payment gateway integration. Ensure seamless navigation and smooth user experience.
+ E-commerce Store with advanced features. Includes customizable products view (List/Grid), product listings, search functionality, cart management, checkout process ensuring seamless navigation and smooth user experience.
 
 Having problem with the Payment gateway
 
