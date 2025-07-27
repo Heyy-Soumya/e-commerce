@@ -2,5 +2,5 @@
 
 Having problem with the Payment gateway
 
-I dont have any Razorpay account and the Stripe is not available in india 
-so , i have aboided the Payment gateway feature.
+I dont have any Razorpay account and the Stripe is not available in india.
+So , I did avoid the Payment gateway feature.
