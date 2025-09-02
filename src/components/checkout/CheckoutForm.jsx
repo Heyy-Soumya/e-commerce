@@ -4,7 +4,7 @@ import ReviewOrder from './ReviewOrder';
 import PaymentForm from './PaymentForm';
 
 const CheckoutForm = () => {
-  const [step, setStep] = useState('address'); // address → review → pay
+  const [step, setStep] = useState('address'); 
 
   if (step === 'address') return <AddressForm onNext={() => setStep('review')} />;
   if (step === 'review')   return <ReviewOrder onNext={() => setStep('pay')} />;
