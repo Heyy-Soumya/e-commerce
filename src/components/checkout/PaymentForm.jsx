@@ -6,6 +6,7 @@ import { clearCart } from '../../features/cart/cartSlice';
 import { resetOrder } from '../../features/orders/orderSlice';
 import { useNavigate } from 'react-router-dom';
 
+
 const PaymentForm = () => {
   const stripe = useStripe();
   const elements = useElements();
@@ -59,5 +60,4 @@ const PaymentForm = () => {
     </form>
   );
 };
-
 export default PaymentForm;
