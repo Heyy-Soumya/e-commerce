@@ -10,5 +10,4 @@ const CheckoutForm = () => {
   if (step === 'review')   return <ReviewOrder onNext={() => setStep('pay')} />;
   return <PaymentForm />;
 };
-
 export default CheckoutForm;
